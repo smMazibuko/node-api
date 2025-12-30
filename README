@@ -1,1 +1,12 @@
-hello world, I'm learning node.js
+# Node.js API
+
+## Prerequisites
+
+- Node.js
+- npm
+
+## Installation
+
+```bash
+npm install express
+```
